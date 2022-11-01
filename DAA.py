@@ -120,7 +120,7 @@ Enter the number of rows in first matrix: 10
 Enter the number of cloumns in first matrix: 5
 Enter the number of rows in second matrix: 5
 Enter the number of columns in second matrix: 4
-Do you want to see the verbose? (1 for yes, 0 for no)0
+Do you want to see the verbose? (1 for yes, 0 for no): 0
 Time taken to multiply two matrices in parallel comes out to be : 0.00301 seconds
 
 Time taken to multiply two matrices comes out to be : 0.0039 seconds
